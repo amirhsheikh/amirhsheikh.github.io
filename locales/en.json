@@ -48,9 +48,8 @@
   "instifyCompany": "Instify",
   "instifyDate": "Sep 2023 — Oct 2026",
   "instifyRole": "Co-founder & Founding Engineer",
-  "instifyItem0": "Owned the architecture and development of an AI commerce platform with FastAPI, PostgreSQL, Docker, and React, including catalog and inventory synchronization.",
+  "instifyItem0": "Owned the architecture and development of an AI commerce platform with FastAPI, PostgreSQL, Docker, and React.",
   "instifyItem1": "Built a conversational shopping assistant for Instagram, Telegram, and Bale; piloted it with a business operating a 100K+ follower account.",
-  "instifyItem2": "Developed the University of Tehran support chatbot, serving 40,000+ students during its active period.",
   "pinketSeniorCompany": "Pinket",
   "pinketSeniorDate": "Sep 2025 — Sep 2026",
   "pinketSeniorRole": "Senior Software Engineer",
@@ -385,5 +384,23 @@
     "cs": "https://aut.ac.ir/",
     "ee": "https://aut.ac.ir/"
   },
-  "recommendationRoleContext": "Role at the time of recommendation"
+  "recommendationRoleContext": "Role at the time of recommendation",
+  "projectsTitle": "Projects",
+  "projects": [
+    {
+      "id": "sofia",
+      "name": "SOFIA",
+      "logo": "ut",
+      "summary": "Developed the University of Tehran support chatbot, serving 40,000+ students during its active period.",
+      "url": null
+    },
+    {
+      "id": "saleh-tala",
+      "name": "Saleh Tala Online Store",
+      "logo": "saleh-tala",
+      "summary": "Built an online gold storefront with product and order management, shopping and payment flows, affiliate marketing, and customer referrals.",
+      "url": "https://salehtala.mooai.ir/"
+    }
+  ],
+  "instifyItem2": "Implemented product catalog and inventory synchronization to keep the shopping assistant aligned with store data."
 }

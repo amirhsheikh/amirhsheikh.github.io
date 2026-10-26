@@ -61,6 +61,7 @@
 
 
 
+.project-entry p{font-size:13px;line-height:1.9;color:#43515e;margin:5px 0 0}.project-entry+.project-entry{border-top:1px solid #edf0f2;margin-top:17px;padding-top:17px}.logo-saleh-tala .company-logo{width:48px;left:8px;top:2px}@media screen and (max-width:640px){.project-entry p{font-size:12px}.logo-saleh-tala .company-logo{width:44px;left:4px;top:2px}}
 @media print{
 
  html{scroll-behavior:auto}
@@ -170,5 +171,11 @@
  .honors li{font-size:8pt;line-height:1.5;margin-bottom:4pt}
  .skill-grid{gap:5pt 16pt}
  .about-copy p,html[lang=fa] .about-copy p{font-size:8.5pt;line-height:1.6;margin-bottom:4pt}
+
+ .project-entry{break-inside:avoid;page-break-inside:avoid}
+ .project-entry p{font-size:8pt;line-height:1.5;margin-top:2pt}
+ .project-entry+.project-entry{margin-top:5pt;padding-top:5pt}
+ section[aria-labelledby=projects]{break-inside:avoid;page-break-inside:avoid}
+
 
 }

@@ -6,6 +6,18 @@
     printButton.hidden = false;
     printButton.addEventListener('click', () => window.print());
   }
+  // Calendar-month precision matches the source dates; overlapping roles are not added.
+  const current = new Date();
+  const parts = new Intl.DateTimeFormat('en-US', {
+    timeZone: 'Asia/Tehran', year: 'numeric', month: 'numeric'
+  }).formatToParts(current);
+  const datePart = type => Number(parts.find(part => part.type === type).value);
+  const numbers = new Intl.NumberFormat(document.documentElement.lang, { useGrouping: false });
+  document.querySelectorAll('[data-experience-start]').forEach(element => {
+    const [year, month] = element.dataset.experienceStart.split('-').map(Number);
+    const years = Math.max(0, Math.floor(((datePart('year') - year) * 12 + datePart('month') - month) / 12));
+    element.textContent = element.dataset.yearsPattern.replace('{years}', numbers.format(years));
+  });
   // Keep links from the previous query-string language switch usable.
   const preferred = new URL(location.href).searchParams.get('lang');
   if (['en', 'fa'].includes(preferred) && preferred !== document.documentElement.lang) {

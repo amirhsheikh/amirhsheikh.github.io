@@ -342,5 +342,20 @@
   "firaEducationCompany": "آکادمی آموزشی فیرا",
   "firaEducationRole": "معاون آموزشی",
   "firaEducationDate": "شهریور ۱۳۹۹ — اردیبهشت ۱۴۰۰",
-  "firaEducationItem0": "مدیریت دوره‌های رباتیک و برنامه‌نویسی."
+  "firaEducationItem0": "مدیریت دوره‌های رباتیک و برنامه‌نویسی.",
+  "firaOverallDate": "شهریور ۱۳۹۹ — اردیبهشت ۱۴۰۰",
+  "experienceHighlights": [
+    {
+      "start": "2019-06",
+      "label": "فعالیت حرفه‌ای",
+      "range": "از ۱۳۹۸ تا امروز"
+    },
+    {
+      "start": "2021-09",
+      "label": "توسعهٔ نرم‌افزار",
+      "range": "از ۱۴۰۰ تا امروز"
+    }
+  ],
+  "experienceYearsPattern": "{years}+ سال",
+  "experienceHighlightsLabel": "سابقهٔ فعالیت"
 }

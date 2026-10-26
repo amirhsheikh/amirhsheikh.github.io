@@ -342,5 +342,20 @@
   "firaEducationCompany": "FIRA Education Academy",
   "firaEducationRole": "Deputy Head of Education",
   "firaEducationDate": "Sep 2020 — May 2021",
-  "firaEducationItem0": "Managed robotics and programming courses."
+  "firaEducationItem0": "Managed robotics and programming courses.",
+  "firaOverallDate": "Sep 2020 — May 2021",
+  "experienceHighlights": [
+    {
+      "start": "2019-06",
+      "label": "Professional experience",
+      "range": "2019 — Present"
+    },
+    {
+      "start": "2021-09",
+      "label": "Software development",
+      "range": "2021 — Present"
+    }
+  ],
+  "experienceYearsPattern": "{years}+ years",
+  "experienceHighlightsLabel": "Experience at a glance"
 }

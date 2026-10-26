@@ -56,7 +56,7 @@
 
 
 .recommender-heading{display:flex;align-items:baseline;flex-wrap:wrap;gap:5px 9px;margin-bottom:7px}.recommender-heading h3{margin-bottom:0}.role-badge{display:inline-block;font-size:10px;font-weight:400;line-height:1.7;border:1px solid #e1e8ee;border-radius:4px;padding:1px 6px;background:#f6f8fa;color:var(--muted)}
-/* Flow the print document into two continuous columns instead of a long single column. */
+/* Recommendation roles are contextual badges, including in print. */
 
 
 
@@ -130,37 +130,45 @@
  a[href]::after{content:none!important}
 
 
- #main{column-count:2;column-gap:8mm;column-fill:balance}
+ #main{display:block;column-count:auto}
  #main>section{margin-top:10pt}
- #main>section[aria-labelledby=summary]{column-span:all;margin-top:3pt;margin-bottom:9pt}
- #main>section[aria-labelledby=experience]{margin-top:0}
  .career-entry{padding-bottom:7pt}
  .career-entry+.career-entry{padding-top:7pt}
- .entry.has-logo,.volunteer-entry{grid-template-columns:25pt minmax(0,1fr);gap:6pt}
- .logo-frame{transform:scale(.48)}
- .entry-head{flex-wrap:wrap;gap:0 5pt}
- .entry-head h3{flex-basis:100%}
- .entry li,html[lang=fa] .entry li{font-size:8pt;line-height:1.65}
- h2,html[lang=fa] h2{font-size:10pt}
- h3,html[lang=fa] h3{font-size:9pt}
- .position{font-size:8pt}
- .skill-grid{grid-template-columns:1fr;gap:7pt}
- .skill-tags li{font-size:7pt;padding:1pt 4pt}
- .education-entry p{font-size:8pt}
- .publication h3,html[lang=fa] .publication h3{font-size:8.5pt;overflow-wrap:anywhere}
- .languages-list{grid-template-columns:1fr;gap:3pt;font-size:8pt}
- .languages-list strong{display:inline;font-size:8pt}
- .experience-heading{display:block}
- .experience-highlights{margin-top:3pt}
+ .entry-head{flex-wrap:nowrap;gap:10pt}
+ .entry li,html[lang=fa] .entry li{font-size:8.5pt;line-height:1.6;margin-bottom:2pt}
+ .entry ul{margin-top:3pt}
+ .position{margin-bottom:3pt}
+ .education-entry,.teaching-entry{padding-bottom:6pt}
+ .education-entry+.education-entry{padding-top:6pt}
+ .skill-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:7pt 16pt}
+ .skill-tags{display:block;line-height:1.8}
+ .skill-tags li{display:inline-block;vertical-align:baseline;white-space:nowrap;margin:0 3pt 3pt 0;break-inside:avoid}
  .recommender-heading{gap:2pt 5pt;margin-bottom:3pt}
  .recommender-heading h3{margin-bottom:0}
- .role-badge{font-size:6.5pt;line-height:1.5;padding:1pt 4pt}
+ .role-badge{font-size:7pt;line-height:1.5;padding:1pt 4pt}
  .recommendations-list p{font-size:8pt;line-height:1.65}
+ .recommendations-list{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:8pt 16pt}
+ .recommendations-list article+article{margin-top:0}
+ .experience-heading{display:flex;align-items:baseline}
+ .volunteer-entry{padding:5pt 0}
+ .about-copy p,html[lang=fa] .about-copy p{font-size:8.5pt;line-height:1.7;margin-bottom:5pt}
 
-
- .skill-grid{display:block}
- .skill-card+.skill-card{margin-top:7pt}
- .skill-tags{display:block;line-height:1.9}
- .skill-tags li{display:inline-block;vertical-align:baseline;white-space:nowrap;margin:0 3pt 3pt 0;break-inside:avoid}
+ #main>section{margin-top:8pt}
+ h2,html[lang=fa] h2{margin-bottom:6pt}
+ .experience-heading{margin-bottom:6pt}
+ .career-entry{padding-bottom:5pt}
+ .career-entry+.career-entry{padding-top:5pt}
+ .entry li,html[lang=fa] .entry li{font-size:8.5pt;line-height:1.5;margin-bottom:2pt}
+ .education-entry,.teaching-entry{padding-bottom:4pt}
+ .education-entry+.education-entry{padding-top:4pt}
+ .education-entry p{font-size:8pt;line-height:1.5}
+ .academic-note{font-size:7.5pt!important;line-height:1.5!important}
+ .publication p{font-size:8pt;line-height:1.5}
+ .volunteer-entry{padding:4pt 0}
+ .volunteer-entry p:not(.date),html[lang=fa] .volunteer-entry p:not(.date){line-height:1.5}
+ .recommendations-list p{font-size:8pt;line-height:1.5}
+ .honors li{font-size:8pt;line-height:1.5;margin-bottom:4pt}
+ .skill-grid{gap:5pt 16pt}
+ .about-copy p,html[lang=fa] .about-copy p{font-size:8.5pt;line-height:1.6;margin-bottom:4pt}
 
 }

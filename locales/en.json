@@ -1,0 +1,254 @@
+{
+  "skip": "Skip to content",
+  "navAbout": "About",
+  "navFocus": "Focus",
+  "navContact": "Contact",
+  "role": "Senior Software Engineer at Taline",
+  "name": "Amirhossein\nSheikholeslami.",
+  "headline": "Backend engineering.\nApplied intelligence.",
+  "intro": "Senior software engineer building production backend services, payment integrations, and AI-powered products. My work connects Java and Python engineering with NLP research.",
+  "linkedin": "Connect on LinkedIn",
+  "currentLabel": "CURRENTLY",
+  "current": "Senior Software Engineer · Taline",
+  "studyLabel": "ACADEMIC WORK",
+  "study": "MSc · University of Tehran",
+  "toolsLabel": "CORE LANGUAGES",
+  "aboutLabel": "01 / ABOUT",
+  "aboutTitle": "Simple solutions.\nComplex problems.",
+  "aboutOne": "I build backend services that connect business workflows, data, and external platforms. My experience includes POS and order management, BNPL payment flows, multi-provider wallet integrations, and event-driven services using Java, Spring, Kafka, and PostgreSQL.",
+  "aboutTwo": "As a co-founder and founding engineer at Instify, I owned the technical architecture of an AI-powered commerce platform, from backend and frontend development to deployment. My AI work also spans enterprise search, conversational banking, and NLP research at the University of Tehran. I value clear communication, practical design, and helping other engineers grow.",
+  "principle": "Clear communication. Thoughtful design. Continuous learning.",
+  "focusLabel": "02 / AREAS OF FOCUS",
+  "focusTitle": "From services to intelligence.",
+  "backendTitle": "Backend engineering",
+  "backendBody": "Designing and maintaining production services. Bringing application logic, databases, messaging, and search together into useful software.",
+  "services": "Backend services",
+  "aiTitle": "AI & language",
+  "aiBody": "Exploring natural language processing and intelligent systems through academic research and practical engineering challenges.",
+  "aiTag": "Artificial intelligence",
+  "researchTag": "Research",
+  "ownershipTitle": "Technical ownership",
+  "ownershipBody": "Leading engineering efforts, integrating third-party systems, sharing knowledge, and mentoring developers through challenging problems.",
+  "integrationTag": "Integrations",
+  "mentoringTag": "Mentoring",
+  "designTag": "System design",
+  "contactLabel": "07 / LET’S CONNECT",
+  "contactTitle": "Good work starts\nwith a conversation.",
+  "contactBody": "Have an interesting engineering challenge or a collaboration in mind? Let’s talk.",
+  "footerName": "Amirhossein Sheikholeslami",
+  "backTop": "Back to top ↑",
+  "pageTitle": "Amirhossein Sheikholeslami | Software Engineer",
+  "navExperience": "Experience",
+  "navResearch": "Research",
+  "experienceLabel": "03 / EXPERIENCE",
+  "experienceTitle": "Building across products and teams.",
+  "talineCompany": "Taline",
+  "talineDate": "Sep 2026 — Present",
+  "talineRole": "Senior Software Engineer",
+  "instifyCompany": "Instify",
+  "instifyDate": "Sep 2023 — Oct 2026",
+  "instifyRole": "Co-founder & Founding Engineer",
+  "instifyItem0": "Owned the architecture and development of an AI commerce platform with FastAPI, PostgreSQL, Docker, and React, including catalog and inventory synchronization.",
+  "instifyItem1": "Built a conversational shopping assistant for Instagram, Telegram, and Bale; piloted it with a business operating a 100K+ follower account.",
+  "instifyItem2": "Developed the University of Tehran support chatbot, serving 40,000+ students during its active period.",
+  "pinketSeniorCompany": "Pinket",
+  "pinketSeniorDate": "Sep 2025 — Sep 2026",
+  "pinketSeniorRole": "Senior Software Engineer",
+  "pinketSeniorItem0": "Built Java and Spring POS and order services supporting 1,000+ daily orders, with Kafka-based asynchronous workflows.",
+  "pinketSeniorItem1": "Architected BNPL payment flows and a unified integration layer for wallet and payment providers.",
+  "pinketSeniorItem2": "Optimized PostgreSQL access, resolved production issues, and owned delivery through deployment and support while mentoring engineers.",
+  "adanCompany": "Adan AI",
+  "adanDate": "Apr 2025 — Sep 2025",
+  "adanRole": "Senior AI Engineer",
+  "adanItem0": "Designed Dana, a RAG search assistant over 10,000+ Bank Mellat regulatory documents, delivering responses in under five seconds.",
+  "adanItem1": "Contributed to Dima’s architecture for natural-language banking and intelligent fund-transfer workflows.",
+  "utResearchCompany": "University of Tehran",
+  "utResearchDate": "Sep 2023 — Sep 2025",
+  "utResearchRole": "Artificial Intelligence Researcher",
+  "pinketJavaCompany": "Pinket",
+  "pinketJavaDate": "Nov 2022 — Apr 2025",
+  "pinketJavaRole": "Java Software Engineer",
+  "limooCompany": "Limoo",
+  "limooDate": "Sep 2021 — Nov 2022",
+  "limooRole": "Integration Bot Developer → Java Backend Engineer",
+  "limooItem0": "Built integration bots for GitLab, GitHub, Telegram, Sentry, Gmail, Azure, Jira, and Trello.",
+  "limooItem1": "Worked on API integrations, authentication, data exchange, backend services, and integration troubleshooting within the engineering team.",
+  "firaCompany": "FIRA Education Academy",
+  "firaDate": "Jun 2019 — May 2021",
+  "firaRole": "Programming Teacher · Education Lead · Electrical Engineer",
+  "firaItem0": "Taught programming, led robotics and programming courses, and developed robotic products.",
+  "researchLabel": "04 / RESEARCH",
+  "researchTitle": "Engineering meets language research.",
+  "paperBody": "Co-authored a bilingual medical question-answering benchmark for evaluating language models in Persian and English.",
+  "readPaper": "Read paper ↗",
+  "educationLabel": "05 / EDUCATION & RECOGNITION",
+  "educationTitle": "Academic background",
+  "mscDegree": "MSc · Computer Software Engineering",
+  "mscUni": "University of Tehran",
+  "csDegree": "Bachelor’s · Computer Engineering",
+  "csUni": "Amirkabir University of Technology",
+  "eeDegree": "Bachelor’s · Electrical & Electronics Engineering",
+  "eeUni": "Amirkabir University of Technology",
+  "honorsTitle": "Honors & awards",
+  "rank51Label": "National university entrance exam rank · Computer Science, Iran",
+  "rank421Label": "National university entrance exam rank in Region 1 · among 100K+ candidates, Iran",
+  "aibotLabel": "AIBot Primary Challenge",
+  "skillsLabel": "06 / SKILLS & LANGUAGES",
+  "skillsTitle": "Technical toolkit",
+  "skillGroupbackend": "Backend & data",
+  "skillGroupproduct": "Product & delivery",
+  "skillGroupintelligence": "AI & systems",
+  "languagesTitle": "Languages",
+  "persianName": "Persian",
+  "persianLevel": "Native or bilingual",
+  "englishName": "English",
+  "englishLevel": "Professional working proficiency",
+  "germanName": "German",
+  "germanLevel": "Elementary proficiency",
+  "limooFirst": "First role · Integration Bot Developer",
+  "limooNext": "Then · Java Backend Engineer (Dec 2021–Nov 2022)",
+  "resumeName": "Amirhossein Sheikholeslami",
+  "resumeSummary": "Professional Summary",
+  "resumeExperience": "Professional Experience",
+  "resumeEducation": "Education",
+  "resumeResearch": "Research & Publications",
+  "resumeSkills": "Technical Skills",
+  "resumeHonors": "Honors & Awards",
+  "resumeLanguages": "Languages",
+  "printResume": "Print / Save PDF",
+  "resumeNav": "Resume navigation",
+  "selectLanguage": "Select language",
+  "summaryText": "I’m a Senior Software Engineer at Taline, focused on backend engineering, financial systems, and applied AI. I work on B2B gold trading, the financial ledger, and development processes. My experience spans Java and Python services, payment platforms, online commerce, and products powered by language models.",
+  "seoTitle": "Amirhossein Sheikholeslami | Senior Software Engineer · Backend & AI",
+  "seoDescription": "Amirhossein Sheikholeslami — Senior Software Engineer at Taline. Backend engineering, Java, Python, payment systems, AI products, and NLP research.",
+  "limooJavaHeading": "Backend Software Engineer (Java)",
+  "limooBotHeading": "Integration Bot Developer · Initial role",
+  "limooJava0": "Developed Java backend services, APIs, and database interactions for a team collaboration platform.",
+  "limooJava1": "Contributed to code reviews, testing, debugging, and deployment.",
+  "limooJava2": "Participated in code reviews and technical discussions to improve code quality and maintainability.",
+  "limooJava3": "Contributed across the delivery lifecycle, from implementation and testing to debugging and deployment.",
+  "awardThird": "Third place",
+  "awardRank51": "Rank 51",
+  "awardRank421": "Rank 421",
+  "footerResume": "Professional resume",
+  "localEmail": "Email",
+  "utResearchItem0": "Researched NLP and intelligent systems; co-authored PersianMedQA, accepted at LREC 2026.",
+  "portraitAlt": "Portrait of Amirhossein Sheikholeslami",
+  "pinketJavaItem0": "Developed Java backend features for online purchasing, delivery management, and operational cost management.",
+  "pinketJavaItem1": "Refactored backend components and improved workflows for customers and operations teams.",
+  "profileTagline": "Backend Engineering · Payment Systems · Applied AI & NLP",
+  "profileOverview": "Overview",
+  "profileContact": "Get in touch",
+  "profilePage": "Professional profile",
+  "profileNavigation": "Profile sections",
+  "logoAlt": "Company logo",
+  "connectAction": "Connect on LinkedIn",
+  "emailAction": "Email me",
+  "contactPhone": "+98 912 272 3262",
+  "mscDate": "Sep 2022 — Sep 2025",
+  "csDate": "Jan 2018 — Apr 2022",
+  "eeDate": "Jan 2016 — Apr 2022",
+  "aboutDelivery": "At Pinket, I worked on online purchasing, delivery and cost management, POS and order services, BNPL workflows, and integrations with wallet and payment providers. I’ve taken features from design and implementation through deployment and production support, including database optimization, refactoring, and troubleshooting across application and infrastructure layers.",
+  "aboutProduct": "As a co-founder and founding engineer at Instify, I owned the technical architecture and development of an AI-powered social commerce platform, combining catalog synchronization with conversational shopping. At Adan AI, my work included RAG-based enterprise search and natural-language banking assistants. Earlier at Limoo, I developed integration bots before moving into Java backend engineering.",
+  "aboutResearch": "As a co-founder and founding engineer at Instify, I took a product from architecture through implementation and deployment. I hold an MSc in Computer Software Engineering from the University of Tehran and co-authored PersianMedQA (LREC 2026). This mix of product engineering and NLP research shapes how I approach technical problems.",
+  "coreStackLabel": "Core stack",
+  "skillsIntro": "Technologies and engineering practices used across production software, product development, and research.",
+  "skillGroups": [
+    {
+      "id": "development",
+      "name": "Development",
+      "items": [
+        {
+          "label": "Java",
+          "language": "en"
+        },
+        {
+          "label": "Python",
+          "language": "en"
+        },
+        {
+          "label": "Spring Boot",
+          "language": "en"
+        },
+        {
+          "label": "FastAPI",
+          "language": "en"
+        },
+        {
+          "label": "React",
+          "language": "en"
+        }
+      ]
+    },
+    {
+      "id": "data",
+      "name": "Data & infrastructure",
+      "items": [
+        {
+          "label": "PostgreSQL",
+          "language": "en"
+        },
+        {
+          "label": "Redis",
+          "language": "en"
+        },
+        {
+          "label": "Kafka",
+          "language": "en"
+        },
+        {
+          "label": "Docker",
+          "language": "en"
+        }
+      ]
+    },
+    {
+      "id": "ai",
+      "name": "Applied AI",
+      "items": [
+        {
+          "label": "NLP",
+          "language": "en"
+        },
+        {
+          "label": "LLMs",
+          "language": "en"
+        },
+        {
+          "label": "RAG",
+          "language": "en"
+        }
+      ]
+    },
+    {
+      "id": "engineering",
+      "name": "Engineering",
+      "items": [
+        {
+          "label": "API integration",
+          "language": "en"
+        },
+        {
+          "label": "Software design",
+          "language": "en"
+        },
+        {
+          "label": "Refactoring",
+          "language": "en"
+        },
+        {
+          "label": "Code review",
+          "language": "en"
+        },
+        {
+          "label": "Mentoring",
+          "language": "en"
+        }
+      ]
+    }
+  ],
+  "talineItem0": "Engineering Taline’s B2B gold trading platform.",
+  "talineItem1": "Building and improving Taline’s financial ledger.",
+  "talineItem2": "Improving engineering workflows and the structure of the software development process.",
+  "limooJavaDate": "Dec 2021 — Nov 2022"
+}

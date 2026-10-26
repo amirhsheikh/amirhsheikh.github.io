@@ -250,5 +250,114 @@
   "talineItem0": "Engineering Taline’s B2B gold trading platform.",
   "talineItem1": "Building and improving Taline’s financial ledger.",
   "talineItem2": "Improving engineering workflows and the structure of the software development process.",
-  "limooJavaDate": "Dec 2021 — Nov 2022"
+  "limooJavaDate": "Dec 2021 — Nov 2022",
+  "volunteerTitle": "Teaching & Volunteering",
+  "projectsTitle": "Selected Projects",
+  "recommendationsTitle": "Recommendations",
+  "viewLinkedin": "View on LinkedIn",
+  "educationResearch": "Intelligent dialogue systems research · Member, Natural Language Processing Lab",
+  "educationGrade": "GPA: 19.3",
+  "projectDetails": "Technical details",
+  "volunteerNav": "Volunteering",
+  "volunteering": [
+    {
+      "id": "ta",
+      "role": "Head Teaching Assistant · Advanced Algorithms",
+      "organization": "University of Tehran",
+      "date": "",
+      "logo": "ut"
+    },
+    {
+      "id": "ict",
+      "role": "ICT Officer",
+      "organization": "Electrical Engineering Innovation Center",
+      "date": "Sep 2019 — Dec 2019",
+      "logo": null
+    },
+    {
+      "id": "rsi",
+      "role": "Student Committee Member",
+      "organization": "RSI International Conference on Robotics & Mechatronics",
+      "date": "Sep 2019",
+      "logo": null
+    },
+    {
+      "id": "council",
+      "role": "Chairman",
+      "organization": "Electrical Engineering Student Council",
+      "date": "Sep 2017 — Sep 2018",
+      "logo": null
+    },
+    {
+      "id": "programming",
+      "role": "Teaching Assistant · Basic Programming",
+      "organization": "Amirkabir University of Technology",
+      "date": "Sep 2017 — Feb 2018",
+      "logo": "aut"
+    }
+  ],
+  "selectedProjects": [
+    {
+      "id": "instify",
+      "name": "AI Social Commerce",
+      "organization": "Instify",
+      "summary": "Conversational shopping and product synchronization across social and commerce platforms.",
+      "stack": [
+        "FastAPI",
+        "PostgreSQL",
+        "React",
+        "LLMs"
+      ],
+      "detail": "Catalog and inventory synchronization with WooCommerce; shopping workflows across Instagram, Telegram, and Bale."
+    },
+    {
+      "id": "dana",
+      "name": "Dana · Enterprise Search",
+      "organization": "Adan AI",
+      "summary": "A RAG assistant built around 10,000+ Bank Mellat regulatory documents.",
+      "stack": [
+        "RAG",
+        "LLMs",
+        "Enterprise search"
+      ],
+      "detail": "Designed the architecture for context-aware answers over enterprise regulatory knowledge."
+    },
+    {
+      "id": "student",
+      "name": "Student Support Chatbot",
+      "organization": "Instify · University of Tehran",
+      "summary": "An AI chatbot for academic and administrative student inquiries.",
+      "stack": [
+        "Conversational AI",
+        "NLP"
+      ],
+      "detail": "Developed to automate recurring academic and administrative support inquiries."
+    },
+    {
+      "id": "dima",
+      "name": "Dima · Conversational Banking",
+      "organization": "Adan AI",
+      "summary": "An AI assistant for natural-language banking operations and fund-transfer workflows.",
+      "stack": [
+        "LLMs",
+        "Conversational AI"
+      ],
+      "detail": "Contributed to the system architecture for banking interactions through natural language."
+    }
+  ],
+  "recommendations": [
+    {
+      "name": "Mohammad Javad Aboutalebi",
+      "summary": "Highlights contributions to Limoo’s Python SDK and integrations, rapid learning, and product perspective."
+    },
+    {
+      "name": "Sadra Alimi",
+      "summary": "Highlights problem-solving, adaptability, initiative, and teamwork."
+    }
+  ],
+  "honorDates": {
+    "rank51Label": "Sep 2022",
+    "rank421Label": "Sep 2016",
+    "aibotLabel": "Mar 2021 · Iran’s National Elites Foundation"
+  }
 }

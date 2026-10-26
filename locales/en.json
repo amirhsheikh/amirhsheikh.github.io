@@ -176,6 +176,10 @@
         {
           "label": "React",
           "language": "en"
+        },
+        {
+          "label": "Hibernate / JPA",
+          "language": "en"
         }
       ]
     },
@@ -197,6 +201,14 @@
         },
         {
           "label": "Docker",
+          "language": "en"
+        },
+        {
+          "label": "Ansible",
+          "language": "en"
+        },
+        {
+          "label": "Linux",
           "language": "en"
         }
       ]
@@ -241,6 +253,22 @@
         },
         {
           "label": "Mentoring",
+          "language": "en"
+        },
+        {
+          "label": "Git",
+          "language": "en"
+        },
+        {
+          "label": "CI/CD",
+          "language": "en"
+        },
+        {
+          "label": "JUnit / Mockito",
+          "language": "en"
+        },
+        {
+          "label": "REST API Design",
           "language": "en"
         }
       ]
@@ -392,7 +420,7 @@
       "name": "SOFIA",
       "logo": "ut",
       "summary": "Built SOFIA, the University of Tehran support chatbot, using retrieval-augmented generation (RAG) to answer student questions based on university information. Served 40,000+ students during its active period.",
-      "url": null
+      "url": "https://ut.ac.ir/"
     },
     {
       "id": "saleh-tala",

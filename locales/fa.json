@@ -176,6 +176,10 @@
         {
           "label": "React",
           "language": "en"
+        },
+        {
+          "label": "Hibernate / JPA",
+          "language": "en"
         }
       ]
     },
@@ -197,6 +201,14 @@
         },
         {
           "label": "Docker",
+          "language": "en"
+        },
+        {
+          "label": "Ansible",
+          "language": "en"
+        },
+        {
+          "label": "Linux",
           "language": "en"
         }
       ]
@@ -242,6 +254,22 @@
         {
           "label": "منتورینگ",
           "language": "fa"
+        },
+        {
+          "label": "Git",
+          "language": "en"
+        },
+        {
+          "label": "CI/CD",
+          "language": "en"
+        },
+        {
+          "label": "JUnit / Mockito",
+          "language": "en"
+        },
+        {
+          "label": "REST API Design",
+          "language": "en"
         }
       ]
     }
@@ -392,7 +420,7 @@
       "name": "سوفیا",
       "logo": "ut",
       "summary": "توسعهٔ سوفیا، چت‌بات پشتیبانی دانشگاه تهران مبتنی بر RAG، با بازیابی اطلاعات از منابع دانشگاه و تولید پاسخ به پرسش‌های دانشجویان؛ خدمت‌رسانی به بیش از ۴۰ هزار دانشجو در دورهٔ فعالیت.",
-      "url": null
+      "url": "https://ut.ac.ir/"
     },
     {
       "id": "saleh-tala",

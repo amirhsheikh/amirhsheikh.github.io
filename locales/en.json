@@ -74,9 +74,9 @@
   "limooItem0": "Built integration bots for GitLab, GitHub, Telegram, Sentry, Gmail, Azure, Jira, and Trello.",
   "limooItem1": "Worked on API integrations, authentication, data exchange, backend services, and integration troubleshooting within the engineering team.",
   "firaCompany": "FIRA Education Academy",
-  "firaDate": "Sep 2020 — May 2021",
-  "firaRole": "Electronics Engineer · Deputy Head of Education",
-  "firaItem0": "Designed and developed robotic products (Jan–May 2021).",
+  "firaDate": "Jan 2021 — May 2021",
+  "firaRole": "Electronics Engineer",
+  "firaItem0": "Designed and developed robotic products.",
   "researchLabel": "04 / RESEARCH",
   "researchTitle": "Engineering meets language research.",
   "paperBody": "Co-authored a bilingual medical question-answering benchmark for evaluating language models in Persian and English.",
@@ -284,19 +284,6 @@
   ],
   "selectedProjects": [
     {
-      "id": "instify",
-      "name": "AI Social Commerce",
-      "organization": "Instify",
-      "summary": "Conversational shopping and product synchronization across social and commerce platforms.",
-      "stack": [
-        "FastAPI",
-        "PostgreSQL",
-        "React",
-        "LLMs"
-      ],
-      "detail": "Catalog and inventory synchronization with WooCommerce; shopping workflows across Instagram, Telegram, and Bale."
-    },
-    {
       "id": "dana",
       "name": "Dana · Enterprise Search",
       "organization": "Adan AI",
@@ -366,14 +353,14 @@
       "id": "salam",
       "organization": "Salam Najm-al-Thaqib High School",
       "role": "Mathematics & Informatics Olympiad Instructor",
-      "date": "2020 — 2023",
+      "date": "Oct 2020 — Jul 2023",
       "logo": "salam"
     },
     {
       "id": "hatef",
       "organization": "Hatef High School",
       "role": "Programming & Robotics Instructor",
-      "date": "2019 — 2020",
+      "date": "Oct 2019 — Jul 2020",
       "logo": "hatef"
     },
     {
@@ -385,5 +372,8 @@
     }
   ],
   "teachingFields": "Teaching areas: robotics, programming, and mathematics and informatics Olympiads.",
-  "firaItem1": "Oversaw robotics and programming courses as Deputy Head of Education (Sep 2020–May 2021)."
+  "firaEducationCompany": "FIRA Education Academy",
+  "firaEducationRole": "Deputy Head of Education",
+  "firaEducationDate": "Sep 2020 — May 2021",
+  "firaEducationItem0": "Managed robotics and programming courses."
 }

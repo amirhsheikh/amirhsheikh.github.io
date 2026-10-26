@@ -74,9 +74,9 @@
   "limooItem0": "Built integration bots for GitLab, GitHub, Telegram, Sentry, Gmail, Azure, Jira, and Trello.",
   "limooItem1": "Worked on API integrations, authentication, data exchange, backend services, and integration troubleshooting within the engineering team.",
   "firaCompany": "FIRA Education Academy",
-  "firaDate": "Jun 2019 — May 2021",
-  "firaRole": "Programming Teacher · Education Lead · Electrical Engineer",
-  "firaItem0": "Taught programming, led robotics and programming courses, and developed robotic products.",
+  "firaDate": "Sep 2020 — May 2021",
+  "firaRole": "Electronics Engineer · Deputy Head of Education",
+  "firaItem0": "Designed and developed robotic products (Jan–May 2021).",
   "researchLabel": "04 / RESEARCH",
   "researchTitle": "Engineering meets language research.",
   "paperBody": "Co-authored a bilingual medical question-answering benchmark for evaluating language models in Persian and English.",
@@ -251,7 +251,7 @@
   "talineItem1": "Building and improving Taline’s financial ledger.",
   "talineItem2": "Improving engineering workflows and the structure of the software development process.",
   "limooJavaDate": "Dec 2021 — Nov 2022",
-  "volunteerTitle": "Teaching & Volunteering",
+  "volunteerTitle": "Volunteering",
   "projectsTitle": "Selected Projects",
   "recommendationsTitle": "Recommendations",
   "viewLinkedin": "View on LinkedIn",
@@ -260,13 +260,6 @@
   "projectDetails": "Technical details",
   "volunteerNav": "Volunteering",
   "volunteering": [
-    {
-      "id": "ta",
-      "role": "Head Teaching Assistant · Advanced Algorithms",
-      "organization": "University of Tehran",
-      "date": "",
-      "logo": "ut"
-    },
     {
       "id": "ict",
       "role": "ICT Officer",
@@ -287,13 +280,6 @@
       "organization": "Electrical Engineering Student Guild Council",
       "date": "Sep 2017 — Sep 2018",
       "logo": "council"
-    },
-    {
-      "id": "programming",
-      "role": "Teaching Assistant · Basic Programming",
-      "organization": "Amirkabir University of Technology",
-      "date": "Sep 2017 — Feb 2018",
-      "logo": "aut"
     }
   ],
   "selectedProjects": [
@@ -363,6 +349,20 @@
   "teachingTitle": "Teaching Experience",
   "teachingExperience": [
     {
+      "id": "ta",
+      "role": "Head Teaching Assistant · Advanced Algorithms",
+      "organization": "University of Tehran",
+      "date": "",
+      "logo": "ut"
+    },
+    {
+      "id": "programming",
+      "role": "Teaching Assistant · Basic Programming",
+      "organization": "Amirkabir University of Technology",
+      "date": "Sep 2017 — Feb 2018",
+      "logo": "aut"
+    },
+    {
       "id": "salam",
       "organization": "Salam Najm-al-Thaqib High School",
       "role": "Mathematics & Informatics Olympiad Instructor",
@@ -375,7 +375,15 @@
       "role": "Programming & Robotics Instructor",
       "date": "2019 — 2020",
       "logo": "hatef"
+    },
+    {
+      "id": "firaTeaching",
+      "organization": "FIRA Education Academy",
+      "role": "Programming Instructor",
+      "date": "Jun 2019 — May 2021",
+      "logo": "fira"
     }
   ],
-  "teachingFields": "Teaching areas: robotics, programming, and mathematics and informatics Olympiads."
+  "teachingFields": "Teaching areas: robotics, programming, and mathematics and informatics Olympiads.",
+  "firaItem1": "Oversaw robotics and programming courses as Deputy Head of Education (Sep 2020–May 2021)."
 }

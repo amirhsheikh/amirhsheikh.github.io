@@ -32,6 +32,16 @@
     const years = Math.max(0, Math.floor(((datePart('year') - year) * 12 + datePart('month') - month) / 12));
     element.textContent = element.dataset.yearsPattern.replace('{years}', numbers.format(years));
   });
+  document.querySelectorAll('[data-duration-start]').forEach(element => {
+    const [year, month] = element.dataset.durationStart.split('-').map(Number);
+    const total = Math.max(1, (datePart('year') - year) * 12 + datePart('month') - month + 1);
+    const years = Math.floor(total / 12), months = total % 12;
+    const fa = document.documentElement.lang === 'fa';
+    const duration = [];
+    if (years) duration.push(numbers.format(years) + (fa ? ' سال' : years === 1 ? ' yr' : ' yrs'));
+    if (months) duration.push(numbers.format(months) + (fa ? ' ماه' : months === 1 ? ' mo' : ' mos'));
+    element.textContent = ' · ' + duration.join(fa ? ' و ' : ' ');
+  });
   // Keep links from the previous query-string language switch usable.
   const preferred = new URL(location.href).searchParams.get('lang');
   if (['en', 'fa'].includes(preferred) && preferred !== document.documentElement.lang) {

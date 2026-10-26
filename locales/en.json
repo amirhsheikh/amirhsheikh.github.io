@@ -86,7 +86,7 @@
   "mscUni": "University of Tehran",
   "csDegree": "Bachelor’s · Computer Engineering",
   "csUni": "Amirkabir University of Technology",
-  "eeDegree": "Bachelor’s · Electrical & Electronics Engineering",
+  "eeDegree": "Bachelor’s · Electrical Engineering — Control",
   "eeUni": "Amirkabir University of Technology",
   "honorsTitle": "Honors & awards",
   "rank51Label": "National university entrance exam rank · Computer Science, Iran",
@@ -144,9 +144,9 @@
   "connectAction": "Connect on LinkedIn",
   "emailAction": "Email me",
   "contactPhone": "+98 912 272 3262",
-  "mscDate": "Sep 2022 — Sep 2025",
-  "csDate": "Jan 2018 — Apr 2022",
-  "eeDate": "Jan 2016 — Apr 2022",
+  "mscDate": "Oct 2022 — Sep 2025",
+  "csDate": "Oct 2017 — Apr 2022",
+  "eeDate": "Oct 2016 — Apr 2022",
   "aboutDelivery": "At Pinket, I worked on online purchasing, delivery and cost management, POS and order services, BNPL workflows, and integrations with wallet and payment providers. I’ve taken features from design and implementation through deployment and production support, including database optimization, refactoring, and troubleshooting across application and infrastructure layers.",
   "aboutProduct": "As a co-founder and founding engineer at Instify, I owned the technical architecture and development of an AI-powered social commerce platform, combining catalog synchronization with conversational shopping. At Adan AI, my work included RAG-based enterprise search and natural-language banking assistants. Earlier at Limoo, I developed integration bots before moving into Java backend engineering.",
   "aboutResearch": "As a co-founder and founding engineer at Instify, I took a product from architecture through implementation and deployment. I hold an MSc in Computer Software Engineering from the University of Tehran and co-authored PersianMedQA (LREC 2026). This mix of product engineering and NLP research shapes how I approach technical problems.",
@@ -350,7 +350,7 @@
       "id": "programming",
       "role": "Teaching Assistant · Basic Programming",
       "organization": "Amirkabir University of Technology",
-      "date": "Sep 2017 — Feb 2018",
+      "date": "Oct 2017 — Feb 2018",
       "logo": "aut",
       "url": "https://aut.ac.ir/"
     },
@@ -382,9 +382,9 @@
   "teachingFields": "Teaching areas: robotics, programming, and mathematics and informatics Olympiads.",
   "firaEducationCompany": "FIRA Education Academy",
   "firaEducationRole": "Deputy Head of Education",
-  "firaEducationDate": "Sep 2020 — May 2021",
+  "firaEducationDate": "Jul 2020 — May 2021",
   "firaEducationItem0": "Managed robotics and programming courses.",
-  "firaOverallDate": "Sep 2020 — May 2021",
+  "firaOverallDate": "Jul 2020 — May 2021",
   "experienceHighlights": [
     {
       "start": "2019-06",
@@ -430,5 +430,95 @@
       "url": "https://salehtala.mooai.ir/"
     }
   ],
-  "instifyItem2": "Implemented product catalog and inventory synchronization to keep the shopping assistant aligned with store data."
+  "instifyItem2": "Implemented product catalog and inventory synchronization to keep the shopping assistant aligned with store data.",
+  "dateRanges": {
+    "talineDate": {
+      "start": "2026-09",
+      "end": null
+    },
+    "instifyDate": {
+      "start": "2023-09",
+      "end": "2026-10"
+    },
+    "pinketSeniorDate": {
+      "start": "2025-09",
+      "end": "2026-09"
+    },
+    "adanDate": {
+      "start": "2025-04",
+      "end": "2025-09"
+    },
+    "utResearchDate": {
+      "start": "2023-09",
+      "end": "2025-09"
+    },
+    "pinketJavaDate": {
+      "start": "2022-11",
+      "end": "2025-04"
+    },
+    "limooDate": {
+      "start": "2021-09",
+      "end": "2022-11"
+    },
+    "firaDate": {
+      "start": "2021-01",
+      "end": "2021-05"
+    },
+    "mscDate": {
+      "start": "2022-10",
+      "end": "2025-09"
+    },
+    "csDate": {
+      "start": "2017-10",
+      "end": "2022-04"
+    },
+    "eeDate": {
+      "start": "2016-10",
+      "end": "2022-04"
+    },
+    "limooJavaDate": {
+      "start": "2021-12",
+      "end": "2022-11"
+    },
+    "firaEducationDate": {
+      "start": "2020-07",
+      "end": "2021-05"
+    },
+    "firaOverallDate": {
+      "start": "2020-07",
+      "end": "2021-05"
+    },
+    "teachingExperience:ta": {
+      "start": "2024-10",
+      "end": "2025-02"
+    },
+    "teachingExperience:programming": {
+      "start": "2017-10",
+      "end": "2018-02"
+    },
+    "teachingExperience:salam": {
+      "start": "2020-10",
+      "end": "2023-07"
+    },
+    "teachingExperience:hatef": {
+      "start": "2019-10",
+      "end": "2020-07"
+    },
+    "teachingExperience:firaTeaching": {
+      "start": "2019-06",
+      "end": "2021-05"
+    },
+    "volunteering:ict": {
+      "start": "2019-09",
+      "end": "2019-12"
+    },
+    "volunteering:rsi": {
+      "start": "2019-09",
+      "end": "2019-09"
+    },
+    "volunteering:council": {
+      "start": "2017-09",
+      "end": "2018-09"
+    }
+  }
 }

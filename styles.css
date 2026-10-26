@@ -179,3 +179,5 @@
 
 
 }
+
+.duration{display:inline-block;font-size:.92em;color:var(--muted);white-space:nowrap}.entry-head .date{white-space:normal;text-align:end;flex-shrink:0;max-width:48%}@media screen and (max-width:640px){.entry-head .date{max-width:none;text-align:start}}@media print{.entry-head .date{white-space:normal;max-width:48%;font-size:7pt}.duration{font-size:inherit}}

@@ -39,7 +39,7 @@
     const fa = document.documentElement.lang === 'fa';
     const duration = [];
     if (years) duration.push(numbers.format(years) + (fa ? ' سال' : years === 1 ? ' yr' : ' yrs'));
-    if (months) duration.push(numbers.format(months) + (fa ? ' ماه' : months === 1 ? ' mo' : ' mos'));
+    if (months && !years) duration.push(numbers.format(months) + (fa ? ' ماه' : months === 1 ? ' mo' : ' mos'));
     element.textContent = ' · ' + duration.join(fa ? ' و ' : ' ');
   });
   // Keep links from the previous query-string language switch usable.

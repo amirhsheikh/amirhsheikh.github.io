@@ -252,12 +252,10 @@
   "talineItem2": "Improving engineering workflows and the structure of the software development process.",
   "limooJavaDate": "Dec 2021 — Nov 2022",
   "volunteerTitle": "Volunteering",
-  "projectsTitle": "Selected Projects",
   "recommendationsTitle": "Recommendations",
   "viewLinkedin": "View on LinkedIn",
   "educationResearch": "Intelligent dialogue systems research · Member, Natural Language Processing Lab",
   "educationGrade": "GPA: 19.3",
-  "projectDetails": "Technical details",
   "volunteerNav": "Volunteering",
   "volunteering": [
     {
@@ -282,48 +280,11 @@
       "logo": "council"
     }
   ],
-  "selectedProjects": [
-    {
-      "id": "dana",
-      "name": "Dana · Enterprise Search",
-      "organization": "Adan AI",
-      "summary": "A RAG assistant built around 10,000+ Bank Mellat regulatory documents.",
-      "stack": [
-        "RAG",
-        "LLMs",
-        "Enterprise search"
-      ],
-      "detail": "Designed the architecture for context-aware answers over enterprise regulatory knowledge."
-    },
-    {
-      "id": "student",
-      "name": "Student Support Chatbot",
-      "organization": "Instify · University of Tehran",
-      "summary": "An AI chatbot for academic and administrative student inquiries.",
-      "stack": [
-        "Conversational AI",
-        "NLP"
-      ],
-      "detail": "Developed to automate recurring academic and administrative support inquiries."
-    },
-    {
-      "id": "dima",
-      "name": "Dima · Conversational Banking",
-      "organization": "Adan AI",
-      "summary": "An AI assistant for natural-language banking operations and fund-transfer workflows.",
-      "stack": [
-        "LLMs",
-        "Conversational AI"
-      ],
-      "detail": "Contributed to the system architecture for banking interactions through natural language."
-    }
-  ],
   "recommendations": [
     {
       "id": "alireza-khosrojerdi",
       "name": "Alireza Khosrojerdi",
-      "summary": "Highlights ownership, reliability, initiative, knowledge sharing, and a positive impact on team collaboration.",
-      "original": "Some people make work easier just by being on the team. Amirhossein is one of them.\n\nHe’s someone you can count on to take ownership, keep things moving, and work well with everyone involved. You don’t have to constantly follow up or wonder where things stand — when he takes something on, you know it’s in good hands.\n\nWhat I appreciate most about Amirhossein is that he doesn’t just get things done; he makes the people around him better, too. He shares what he knows generously and knows how to bring people together to work through challenges, especially within a technical team.\n\nHe’s reliable, proactive, and great at navigating the human side of engineering. When you work with someone like him, both the work and the team benefit."
+      "summary": "Highlights ownership, reliability, initiative, knowledge sharing, and a positive impact on team collaboration."
     },
     {
       "name": "Mohammad Javad Aboutalebi",
@@ -381,8 +342,5 @@
   "firaEducationCompany": "FIRA Education Academy",
   "firaEducationRole": "Deputy Head of Education",
   "firaEducationDate": "Sep 2020 — May 2021",
-  "firaEducationItem0": "Managed robotics and programming courses.",
-  "readRecommendation": "Read full recommendation",
-  "originalRecommendation": "Original recommendation",
-  "recommendationTranslation": "Persian translation"
+  "firaEducationItem0": "Managed robotics and programming courses."
 }

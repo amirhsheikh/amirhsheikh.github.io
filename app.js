@@ -4,7 +4,21 @@
   const printButton = document.querySelector('[data-print]');
   if (printButton) {
     printButton.hidden = false;
-    printButton.addEventListener('click', () => window.print());
+    printButton.addEventListener('click', async () => {
+      printButton.disabled = true;
+      try {
+        await Promise.allSettled([
+          document.fonts.ready,
+          ...Array.from(document.images, image => {
+            image.loading = 'eager';
+            return image.decode();
+          })
+        ]);
+        window.print();
+      } finally {
+        printButton.disabled = false;
+      }
+    });
   }
   // Calendar-month precision matches the source dates; overlapping roles are not added.
   const current = new Date();

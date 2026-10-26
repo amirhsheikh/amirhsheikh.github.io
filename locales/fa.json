@@ -288,17 +288,20 @@
       "id": "alireza-khosrojerdi",
       "name": "علیرضا خسروجردی",
       "summary": "تأکید بر مسئولیت‌پذیری، قابل‌اعتماد بودن، پیشبرد مستقل کارها و کمک به رشد و همکاری تیم.",
-      "url": "https://www.linkedin.com/in/alireza-khosrojerdi-11bb021b1/"
+      "url": "https://www.linkedin.com/in/alireza-khosrojerdi-11bb021b1/",
+      "roleAtRecommendation": "لید فرانت‌اند · پینکت"
     },
     {
       "name": "محمدجواد ابوطالبی",
       "summary": "اشاره به توسعهٔ Python SDK و یکپارچه‌سازی‌های لیمو، یادگیری سریع و نگاه محصولی.",
-      "url": "https://www.linkedin.com/in/mohammad-javad-aboutalebi/"
+      "url": "https://www.linkedin.com/in/mohammad-javad-aboutalebi/",
+      "roleAtRecommendation": "CEO & CPO · لیمو"
     },
     {
       "name": "صدرا علیمی",
       "summary": "تأکید بر حل مسئله، یادگیری فناوری‌های تازه، ابتکار و همکاری تیمی.",
-      "url": "https://www.linkedin.com/in/sadra-alimi-7aa583171/"
+      "url": "https://www.linkedin.com/in/sadra-alimi-7aa583171/",
+      "roleAtRecommendation": "CTO · لیمو"
     }
   ],
   "honorDates": {
@@ -326,7 +329,7 @@
     },
     {
       "id": "salam",
-      "organization": "دبیرستان سلام نجم‌الثاقب",
+      "organization": "دبیرستان سلام نجم",
       "role": "مدرس المپیاد ریاضی و کامپیوتر",
       "date": "مهر ۱۳۹۹ — تیر ۱۴۰۲",
       "logo": "salam",
@@ -381,5 +384,6 @@
     "msc": "https://ut.ac.ir/",
     "cs": "https://aut.ac.ir/",
     "ee": "https://aut.ac.ir/"
-  }
+  },
+  "recommendationRoleContext": "سمت در زمان ارائهٔ توصیه‌نامه"
 }

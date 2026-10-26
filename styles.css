@@ -52,8 +52,17 @@
 .reference-link{color:inherit;text-decoration:underline;text-decoration-color:#bac9d5;text-decoration-thickness:1px;text-underline-offset:4px}.reference-link:hover{color:var(--blue);text-decoration-color:currentColor}
 
 /* A4 print layout: preserve links, keep compact sections and roles together. */
-@page{size:A4;margin:14mm 15mm}
+@page{size:A4;margin:12mm}
+
+
+.recommender-heading{display:flex;align-items:baseline;flex-wrap:wrap;gap:5px 9px;margin-bottom:7px}.recommender-heading h3{margin-bottom:0}.role-badge{display:inline-block;font-size:10px;font-weight:400;line-height:1.7;border:1px solid #e1e8ee;border-radius:4px;padding:1px 6px;background:#f6f8fa;color:var(--muted)}
+/* Flow the print document into two continuous columns instead of a long single column. */
+
+
+
+
 @media print{
+
  html{scroll-behavior:auto}
  body,html[lang=fa] body{background:#fff;color:#202a35;font-size:9pt;line-height:1.55;-webkit-print-color-adjust:exact;print-color-adjust:exact}
  .toolbar,.profile-cover,.section-nav,.skip,footer,.profile-actions{display:none!important}
@@ -119,4 +128,39 @@
  section[aria-labelledby=summary],section[aria-labelledby=skills],section[aria-labelledby=education],section[aria-labelledby=research],section[aria-labelledby=honors],section[aria-labelledby=languages]{break-inside:avoid;page-break-inside:avoid}
  a,.reference-link{color:inherit;text-decoration:none}
  a[href]::after{content:none!important}
+
+
+ #main{column-count:2;column-gap:8mm;column-fill:balance}
+ #main>section{margin-top:10pt}
+ #main>section[aria-labelledby=summary]{column-span:all;margin-top:3pt;margin-bottom:9pt}
+ #main>section[aria-labelledby=experience]{margin-top:0}
+ .career-entry{padding-bottom:7pt}
+ .career-entry+.career-entry{padding-top:7pt}
+ .entry.has-logo,.volunteer-entry{grid-template-columns:25pt minmax(0,1fr);gap:6pt}
+ .logo-frame{transform:scale(.48)}
+ .entry-head{flex-wrap:wrap;gap:0 5pt}
+ .entry-head h3{flex-basis:100%}
+ .entry li,html[lang=fa] .entry li{font-size:8pt;line-height:1.65}
+ h2,html[lang=fa] h2{font-size:10pt}
+ h3,html[lang=fa] h3{font-size:9pt}
+ .position{font-size:8pt}
+ .skill-grid{grid-template-columns:1fr;gap:7pt}
+ .skill-tags li{font-size:7pt;padding:1pt 4pt}
+ .education-entry p{font-size:8pt}
+ .publication h3,html[lang=fa] .publication h3{font-size:8.5pt;overflow-wrap:anywhere}
+ .languages-list{grid-template-columns:1fr;gap:3pt;font-size:8pt}
+ .languages-list strong{display:inline;font-size:8pt}
+ .experience-heading{display:block}
+ .experience-highlights{margin-top:3pt}
+ .recommender-heading{gap:2pt 5pt;margin-bottom:3pt}
+ .recommender-heading h3{margin-bottom:0}
+ .role-badge{font-size:6.5pt;line-height:1.5;padding:1pt 4pt}
+ .recommendations-list p{font-size:8pt;line-height:1.65}
+
+
+ .skill-grid{display:block}
+ .skill-card+.skill-card{margin-top:7pt}
+ .skill-tags{display:block;line-height:1.9}
+ .skill-tags li{display:inline-block;vertical-align:baseline;white-space:nowrap;margin:0 3pt 3pt 0;break-inside:avoid}
+
 }

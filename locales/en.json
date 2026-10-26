@@ -288,17 +288,20 @@
       "id": "alireza-khosrojerdi",
       "name": "Alireza Khosrojerdi",
       "summary": "Highlights ownership, reliability, initiative, knowledge sharing, and a positive impact on team collaboration.",
-      "url": "https://www.linkedin.com/in/alireza-khosrojerdi-11bb021b1/"
+      "url": "https://www.linkedin.com/in/alireza-khosrojerdi-11bb021b1/",
+      "roleAtRecommendation": "Frontend Lead · Pinket"
     },
     {
       "name": "Mohammad Javad Aboutalebi",
       "summary": "Highlights contributions to Limoo’s Python SDK and integrations, rapid learning, and product perspective.",
-      "url": "https://www.linkedin.com/in/mohammad-javad-aboutalebi/"
+      "url": "https://www.linkedin.com/in/mohammad-javad-aboutalebi/",
+      "roleAtRecommendation": "CEO & CPO · Limoo"
     },
     {
       "name": "Sadra Alimi",
       "summary": "Highlights problem-solving, adaptability, initiative, and teamwork.",
-      "url": "https://www.linkedin.com/in/sadra-alimi-7aa583171/"
+      "url": "https://www.linkedin.com/in/sadra-alimi-7aa583171/",
+      "roleAtRecommendation": "CTO · Limoo"
     }
   ],
   "honorDates": {
@@ -326,7 +329,7 @@
     },
     {
       "id": "salam",
-      "organization": "Salam Najm",
+      "organization": "Salam Najm High School",
       "role": "Mathematics & Informatics Olympiad Instructor",
       "date": "Oct 2020 — Jul 2023",
       "logo": "salam",
@@ -381,5 +384,6 @@
     "msc": "https://ut.ac.ir/",
     "cs": "https://aut.ac.ir/",
     "ee": "https://aut.ac.ir/"
-  }
+  },
+  "recommendationRoleContext": "Role at the time of recommendation"
 }

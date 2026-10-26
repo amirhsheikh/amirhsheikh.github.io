@@ -391,7 +391,7 @@
       "id": "sofia",
       "name": "SOFIA",
       "logo": "ut",
-      "summary": "Developed the University of Tehran support chatbot, serving 40,000+ students during its active period.",
+      "summary": "Built SOFIA, the University of Tehran support chatbot, using retrieval-augmented generation (RAG) to answer student questions based on university information. Served 40,000+ students during its active period.",
       "url": null
     },
     {

@@ -272,21 +272,21 @@
       "role": "ICT Officer",
       "organization": "Electrical Engineering Innovation Center",
       "date": "Sep 2019 — Dec 2019",
-      "logo": null
+      "logo": "icaut"
     },
     {
       "id": "rsi",
       "role": "Student Committee Member",
-      "organization": "RSI International Conference on Robotics & Mechatronics",
+      "organization": "RSI International Conference on Robotics & Mechatronics (ICRoM)",
       "date": "Sep 2019",
-      "logo": null
+      "logo": "icrom"
     },
     {
       "id": "council",
       "role": "Chairman",
-      "organization": "Electrical Engineering Student Council",
+      "organization": "Electrical Engineering Student Guild Council",
       "date": "Sep 2017 — Sep 2018",
-      "logo": null
+      "logo": "council"
     },
     {
       "id": "programming",

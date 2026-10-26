@@ -272,21 +272,21 @@
       "role": "مسئول فناوری اطلاعات",
       "organization": "مرکز نوآوری مهندسی برق",
       "date": "شهریور ۱۳۹۸ — آذر ۱۳۹۸",
-      "logo": null
+      "logo": "icaut"
     },
     {
       "id": "rsi",
       "role": "عضو کمیتهٔ دانشجویی",
-      "organization": "کنفرانس بین‌المللی رباتیک و مکاترونیک RSI",
+      "organization": "کنفرانس بین‌المللی رباتیک و مکاترونیک (ICRoM)",
       "date": "شهریور ۱۳۹۸",
-      "logo": null
+      "logo": "icrom"
     },
     {
       "id": "council",
       "role": "رئیس شورا",
-      "organization": "شورای دانشجویی مهندسی برق",
+      "organization": "شورای صنفی دانشکدهٔ مهندسی برق",
       "date": "شهریور ۱۳۹۶ — شهریور ۱۳۹۷",
-      "logo": null
+      "logo": "council"
     },
     {
       "id": "programming",

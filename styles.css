@@ -48,3 +48,5 @@
 .logo-hatef .company-logo{width:48.750px;left:1.625px;top:15.216px}}
 
 .experience-heading{display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:8px 20px;margin-bottom:18px}.experience-heading h2{margin:0}.experience-highlights{display:flex;flex-wrap:wrap;gap:6px 16px;color:var(--muted)}.experience-metric{display:flex;align-items:baseline;gap:4px;font-size:10px;line-height:1.7}.experience-metric strong{font-size:11px;font-weight:500;color:var(--muted)}@media(max-width:640px){.experience-heading{gap:6px 14px}.experience-highlights{gap:4px 12px}}
+
+.reference-link{color:inherit;text-decoration:underline;text-decoration-color:#bac9d5;text-decoration-thickness:1px;text-underline-offset:4px}.reference-link:hover{color:var(--blue);text-decoration-color:currentColor}

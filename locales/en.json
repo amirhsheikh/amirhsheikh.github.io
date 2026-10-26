@@ -263,36 +263,42 @@
       "role": "ICT Officer",
       "organization": "Electrical Engineering Innovation Center",
       "date": "Sep 2019 — Dec 2019",
-      "logo": "icaut"
+      "logo": "icaut",
+      "url": "https://aut.ac.ir/"
     },
     {
       "id": "rsi",
       "role": "Student Committee Member",
       "organization": "RSI International Conference on Robotics & Mechatronics (ICRoM)",
       "date": "Sep 2019",
-      "logo": "icrom"
+      "logo": "icrom",
+      "url": "https://www.linkedin.com/company/icrom/"
     },
     {
       "id": "council",
       "role": "Chairman",
       "organization": "Electrical Engineering Student Guild Council",
       "date": "Sep 2017 — Sep 2018",
-      "logo": "council"
+      "logo": "council",
+      "url": "https://aut.ac.ir/"
     }
   ],
   "recommendations": [
     {
       "id": "alireza-khosrojerdi",
       "name": "Alireza Khosrojerdi",
-      "summary": "Highlights ownership, reliability, initiative, knowledge sharing, and a positive impact on team collaboration."
+      "summary": "Highlights ownership, reliability, initiative, knowledge sharing, and a positive impact on team collaboration.",
+      "url": "https://www.linkedin.com/in/alireza-khosrojerdi-11bb021b1/"
     },
     {
       "name": "Mohammad Javad Aboutalebi",
-      "summary": "Highlights contributions to Limoo’s Python SDK and integrations, rapid learning, and product perspective."
+      "summary": "Highlights contributions to Limoo’s Python SDK and integrations, rapid learning, and product perspective.",
+      "url": "https://www.linkedin.com/in/mohammad-javad-aboutalebi/"
     },
     {
       "name": "Sadra Alimi",
-      "summary": "Highlights problem-solving, adaptability, initiative, and teamwork."
+      "summary": "Highlights problem-solving, adaptability, initiative, and teamwork.",
+      "url": "https://www.linkedin.com/in/sadra-alimi-7aa583171/"
     }
   ],
   "honorDates": {
@@ -307,35 +313,40 @@
       "role": "Head Teaching Assistant · Advanced Algorithms",
       "organization": "University of Tehran",
       "date": "Oct 2024 — Feb 2025",
-      "logo": "ut"
+      "logo": "ut",
+      "url": "https://ut.ac.ir/"
     },
     {
       "id": "programming",
       "role": "Teaching Assistant · Basic Programming",
       "organization": "Amirkabir University of Technology",
       "date": "Sep 2017 — Feb 2018",
-      "logo": "aut"
+      "logo": "aut",
+      "url": "https://aut.ac.ir/"
     },
     {
       "id": "salam",
       "organization": "Salam Najm-al-Thaqib High School",
       "role": "Mathematics & Informatics Olympiad Instructor",
       "date": "Oct 2020 — Jul 2023",
-      "logo": "salam"
+      "logo": "salam",
+      "url": "https://salamsch.org/branches/najm-sagheb/"
     },
     {
       "id": "hatef",
       "organization": "Hatef High School",
       "role": "Programming & Robotics Instructor",
       "date": "Oct 2019 — Jul 2020",
-      "logo": "hatef"
+      "logo": "hatef",
+      "url": "https://hatefschool.ir/"
     },
     {
       "id": "firaTeaching",
       "organization": "FIRA Education Academy",
       "role": "Programming Instructor",
       "date": "Jun 2019 — May 2021",
-      "logo": "fira"
+      "logo": "fira",
+      "url": "https://firaedu.ir/"
     }
   ],
   "teachingFields": "Teaching areas: robotics, programming, and mathematics and informatics Olympiads.",
@@ -357,5 +368,18 @@
     }
   ],
   "experienceYearsPattern": "{years}+ years",
-  "experienceHighlightsLabel": "Experience at a glance"
+  "experienceHighlightsLabel": "Experience at a glance",
+  "references": {
+    "taline": "https://taline.ir/",
+    "instify": "https://instify.app/",
+    "pinketSenior": "https://pinket.com/",
+    "pinketJava": "https://pinket.com/",
+    "adan": "https://adanai.ir/",
+    "utResearch": "https://ut.ac.ir/",
+    "limoo": "https://www.linkedin.com/company/limoo-im/",
+    "fira": "https://firaedu.ir/",
+    "msc": "https://ut.ac.ir/",
+    "cs": "https://aut.ac.ir/",
+    "ee": "https://aut.ac.ir/"
+  }
 }

@@ -263,36 +263,42 @@
       "role": "مسئول فناوری اطلاعات",
       "organization": "مرکز نوآوری مهندسی برق",
       "date": "شهریور ۱۳۹۸ — آذر ۱۳۹۸",
-      "logo": "icaut"
+      "logo": "icaut",
+      "url": "https://aut.ac.ir/"
     },
     {
       "id": "rsi",
       "role": "عضو کمیتهٔ دانشجویی",
       "organization": "کنفرانس بین‌المللی رباتیک و مکاترونیک (ICRoM)",
       "date": "شهریور ۱۳۹۸",
-      "logo": "icrom"
+      "logo": "icrom",
+      "url": "https://www.linkedin.com/company/icrom/"
     },
     {
       "id": "council",
       "role": "رئیس شورا",
       "organization": "شورای صنفی دانشکدهٔ مهندسی برق",
       "date": "شهریور ۱۳۹۶ — شهریور ۱۳۹۷",
-      "logo": "council"
+      "logo": "council",
+      "url": "https://aut.ac.ir/"
     }
   ],
   "recommendations": [
     {
       "id": "alireza-khosrojerdi",
       "name": "علیرضا خسروجردی",
-      "summary": "تأکید بر مسئولیت‌پذیری، قابل‌اعتماد بودن، پیشبرد مستقل کارها و کمک به رشد و همکاری تیم."
+      "summary": "تأکید بر مسئولیت‌پذیری، قابل‌اعتماد بودن، پیشبرد مستقل کارها و کمک به رشد و همکاری تیم.",
+      "url": "https://www.linkedin.com/in/alireza-khosrojerdi-11bb021b1/"
     },
     {
       "name": "محمدجواد ابوطالبی",
-      "summary": "اشاره به توسعهٔ Python SDK و یکپارچه‌سازی‌های لیمو، یادگیری سریع و نگاه محصولی."
+      "summary": "اشاره به توسعهٔ Python SDK و یکپارچه‌سازی‌های لیمو، یادگیری سریع و نگاه محصولی.",
+      "url": "https://www.linkedin.com/in/mohammad-javad-aboutalebi/"
     },
     {
       "name": "صدرا علیمی",
-      "summary": "تأکید بر حل مسئله، یادگیری فناوری‌های تازه، ابتکار و همکاری تیمی."
+      "summary": "تأکید بر حل مسئله، یادگیری فناوری‌های تازه، ابتکار و همکاری تیمی.",
+      "url": "https://www.linkedin.com/in/sadra-alimi-7aa583171/"
     }
   ],
   "honorDates": {
@@ -307,35 +313,40 @@
       "role": "سرپرست دستیاران آموزشی · الگوریتم‌های پیشرفته",
       "organization": "دانشگاه تهران",
       "date": "مهر ۱۴۰۳ — بهمن ۱۴۰۳",
-      "logo": "ut"
+      "logo": "ut",
+      "url": "https://ut.ac.ir/"
     },
     {
       "id": "programming",
       "role": "دستیار آموزشی · مبانی برنامه‌نویسی",
       "organization": "دانشگاه صنعتی امیرکبیر",
       "date": "شهریور ۱۳۹۶ — بهمن ۱۳۹۶",
-      "logo": "aut"
+      "logo": "aut",
+      "url": "https://aut.ac.ir/"
     },
     {
       "id": "salam",
       "organization": "دبیرستان سلام نجم‌الثاقب",
       "role": "مدرس المپیاد ریاضی و کامپیوتر",
       "date": "مهر ۱۳۹۹ — تیر ۱۴۰۲",
-      "logo": "salam"
+      "logo": "salam",
+      "url": "https://salamsch.org/branches/najm-sagheb/"
     },
     {
       "id": "hatef",
       "organization": "دبیرستان هاتف",
       "role": "مدرس برنامه‌نویسی و رباتیک",
       "date": "مهر ۱۳۹۸ — تیر ۱۳۹۹",
-      "logo": "hatef"
+      "logo": "hatef",
+      "url": "https://hatefschool.ir/"
     },
     {
       "id": "firaTeaching",
       "organization": "آکادمی آموزشی فیرا",
       "role": "مدرس برنامه‌نویسی",
       "date": "خرداد ۱۳۹۸ — اردیبهشت ۱۴۰۰",
-      "logo": "fira"
+      "logo": "fira",
+      "url": "https://firaedu.ir/"
     }
   ],
   "teachingFields": "حوزه‌های تدریس: رباتیک، برنامه‌نویسی و المپیادهای ریاضی و کامپیوتر.",
@@ -357,5 +368,18 @@
     }
   ],
   "experienceYearsPattern": "{years}+ سال",
-  "experienceHighlightsLabel": "سابقهٔ فعالیت"
+  "experienceHighlightsLabel": "سابقهٔ فعالیت",
+  "references": {
+    "taline": "https://taline.ir/",
+    "instify": "https://instify.app/",
+    "pinketSenior": "https://pinket.com/",
+    "pinketJava": "https://pinket.com/",
+    "adan": "https://adanai.ir/",
+    "utResearch": "https://ut.ac.ir/",
+    "limoo": "https://www.linkedin.com/company/limoo-im/",
+    "fira": "https://firaedu.ir/",
+    "msc": "https://ut.ac.ir/",
+    "cs": "https://aut.ac.ir/",
+    "ee": "https://aut.ac.ir/"
+  }
 }

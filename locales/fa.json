@@ -359,5 +359,23 @@
     "rank51Label": "شهریور ۱۴۰۱",
     "rank421Label": "شهریور ۱۳۹۵",
     "aibotLabel": "اسفند ۱۳۹۹ · بنیاد ملی نخبگان ایران"
-  }
+  },
+  "teachingTitle": "تجربهٔ تدریس",
+  "teachingExperience": [
+    {
+      "id": "salam",
+      "organization": "مدارس سلام",
+      "role": "مدرس",
+      "date": "",
+      "logo": "salam"
+    },
+    {
+      "id": "hatef",
+      "organization": "مدرسهٔ هاتف",
+      "role": "مدرس",
+      "date": "",
+      "logo": "hatef"
+    }
+  ],
+  "teachingFields": "حوزه‌های تدریس: رباتیک، برنامه‌نویسی و المپیادهای ریاضی و کامپیوتر."
 }

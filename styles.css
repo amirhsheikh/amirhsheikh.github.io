@@ -40,3 +40,9 @@
 @media(max-width:640px){.logo-icrom .company-logo{width:52.929px;left:0.116px;top:-0.839px}
 .logo-council .company-logo{width:33.743px;left:9.086px;top:7.128px}
 .logo-icaut .company-logo{width:37.388px;left:6.218px;top:3.913px}}
+
+/* Supplied school marks use the same optical envelope. */
+.logo-salam .company-logo{width:60.423px;height:auto;left:1.819px;top:15.124px}
+.logo-hatef .company-logo{width:60.000px;height:auto;left:2.000px;top:15.189px}
+@media(max-width:640px){.logo-salam .company-logo{width:49.094px;left:1.478px;top:15.163px}
+.logo-hatef .company-logo{width:48.750px;left:1.625px;top:15.216px}}

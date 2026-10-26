@@ -359,5 +359,23 @@
     "rank51Label": "Sep 2022",
     "rank421Label": "Sep 2016",
     "aibotLabel": "Mar 2021 · Iran’s National Elites Foundation"
-  }
+  },
+  "teachingTitle": "Teaching Experience",
+  "teachingExperience": [
+    {
+      "id": "salam",
+      "organization": "Salam Schools",
+      "role": "Instructor",
+      "date": "",
+      "logo": "salam"
+    },
+    {
+      "id": "hatef",
+      "organization": "Hatef School",
+      "role": "Instructor",
+      "date": "",
+      "logo": "hatef"
+    }
+  ],
+  "teachingFields": "Teaching areas: robotics, programming, and mathematics and informatics Olympiads."
 }

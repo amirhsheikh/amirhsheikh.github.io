@@ -320,6 +320,13 @@
   ],
   "recommendations": [
     {
+      "id": "alireza-khosrojerdi",
+      "name": "علیرضا خسروجردی",
+      "summary": "تأکید بر مسئولیت‌پذیری، قابل‌اعتماد بودن، پیشبرد مستقل کارها و کمک به رشد و همکاری تیم.",
+      "original": "Some people make work easier just by being on the team. Amirhossein is one of them.\n\nHe’s someone you can count on to take ownership, keep things moving, and work well with everyone involved. You don’t have to constantly follow up or wonder where things stand — when he takes something on, you know it’s in good hands.\n\nWhat I appreciate most about Amirhossein is that he doesn’t just get things done; he makes the people around him better, too. He shares what he knows generously and knows how to bring people together to work through challenges, especially within a technical team.\n\nHe’s reliable, proactive, and great at navigating the human side of engineering. When you work with someone like him, both the work and the team benefit.",
+      "translation": "بعضی‌ها صرفِ حضورشان در تیم، کار را برای همه آسان‌تر می‌کنند. امیرحسین یکی از آن‌هاست.\n\nمی‌توان روی او حساب کرد که مسئولیت کار را بپذیرد، آن را پیش ببرد و با همهٔ افراد درگیر به‌خوبی همکاری کند. لازم نیست مدام پیگیری کنید یا نگران وضعیت کار باشید؛ وقتی کاری را بر عهده می‌گیرد، می‌دانید که به فرد مطمئنی سپرده شده است.\n\nچیزی که بیش از همه در امیرحسین برایم ارزشمند است این است که فقط کارها را به انجام نمی‌رساند؛ به بهتر شدن اطرافیانش هم کمک می‌کند. دانشش را سخاوتمندانه به اشتراک می‌گذارد و می‌داند چطور افراد را برای حل چالش‌ها، به‌ویژه در یک تیم فنی، کنار هم جمع کند.\n\nاو قابل‌اعتماد، پیش‌قدم و در مدیریت جنبهٔ انسانی مهندسی توانمند است. همکاری با کسی مانند او، هم به کار و هم به تیم کمک می‌کند."
+    },
+    {
       "name": "محمدجواد ابوطالبی",
       "summary": "اشاره به توسعهٔ Python SDK و یکپارچه‌سازی‌های لیمو، یادگیری سریع و نگاه محصولی."
     },
@@ -375,5 +382,8 @@
   "firaEducationCompany": "آکادمی آموزشی فیرا",
   "firaEducationRole": "معاون آموزشی",
   "firaEducationDate": "شهریور ۱۳۹۹ — اردیبهشت ۱۴۰۰",
-  "firaEducationItem0": "مدیریت دوره‌های رباتیک و برنامه‌نویسی."
+  "firaEducationItem0": "مدیریت دوره‌های رباتیک و برنامه‌نویسی.",
+  "readRecommendation": "متن کامل توصیه‌نامه",
+  "originalRecommendation": "متن اصلی انگلیسی",
+  "recommendationTranslation": "ترجمهٔ فارسی"
 }

@@ -46,3 +46,4 @@
 .logo-hatef .company-logo{width:60.000px;height:auto;left:2.000px;top:15.189px}
 @media(max-width:640px){.logo-salam .company-logo{width:49.094px;left:1.478px;top:15.163px}
 .logo-hatef .company-logo{width:48.750px;left:1.625px;top:15.216px}}
+.recommendation-detail{margin-top:12px;font-size:11px}.recommendation-detail summary{cursor:pointer;color:var(--blue)}.recommendation-detail blockquote{margin:13px 0;padding-inline-start:13px;border-inline-start:2px solid #dce7ef}.recommendation-detail blockquote p{font-size:12px;line-height:1.95;margin-bottom:12px}.recommendation-detail blockquote[lang=en]{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif}.recommendation-detail .quote-label{font-size:10px;color:#789;margin-top:15px}.recommendations-list>article{min-width:0}@media(min-width:641px){.recommendations-list>article:first-child{grid-column:1/-1}}@media print{.recommendation-detail{display:none}}

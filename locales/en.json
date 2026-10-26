@@ -364,16 +364,16 @@
   "teachingExperience": [
     {
       "id": "salam",
-      "organization": "Salam Schools",
-      "role": "Instructor",
-      "date": "",
+      "organization": "Salam Najm-al-Thaqib High School",
+      "role": "Mathematics & Informatics Olympiad Instructor",
+      "date": "2020 — 2023",
       "logo": "salam"
     },
     {
       "id": "hatef",
-      "organization": "Hatef School",
-      "role": "Instructor",
-      "date": "",
+      "organization": "Hatef High School",
+      "role": "Programming & Robotics Instructor",
+      "date": "2019 — 2020",
       "logo": "hatef"
     }
   ],

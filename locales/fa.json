@@ -364,16 +364,16 @@
   "teachingExperience": [
     {
       "id": "salam",
-      "organization": "مدارس سلام",
-      "role": "مدرس",
-      "date": "",
+      "organization": "دبیرستان سلام نجم‌الثاقب",
+      "role": "مدرس المپیاد ریاضی و کامپیوتر",
+      "date": "۱۳۹۹ — ۱۴۰۲",
       "logo": "salam"
     },
     {
       "id": "hatef",
-      "organization": "مدرسهٔ هاتف",
-      "role": "مدرس",
-      "date": "",
+      "organization": "دبیرستان هاتف",
+      "role": "مدرس برنامه‌نویسی و رباتیک",
+      "date": "۱۳۹۸ — ۱۳۹۹",
       "logo": "hatef"
     }
   ],
